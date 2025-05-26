@@ -45,7 +45,7 @@ function drawCards() {
   fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: {
-      "Authorization": "Bearer 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", // 🔁 thay bằng API Key thật
+      "Authorization": "Bearer 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", // 🔁 thay bằng API Key thật
       "Content-Type": "application/json",
       "HTTP-Referer": "https://minhdigital.github.io",
       "X-Title": "Xem Tarot"
