@@ -1,314 +1,314 @@
 [
   {
     "name": "The Fool",
-    "image": "images/The_Fool.jpg"
+    "image": "image/The_Fool.jpg"
   },
   {
     "name": "The Magician",
-    "image": "images/The_Magician.jpg"
+    "image": "image/The_Magician.jpg"
   },
   {
     "name": "The High Priestess",
-    "image": "images/The_High_Priestess.jpg"
+    "image": "image/The_High_Priestess.jpg"
   },
   {
     "name": "The Empress",
-    "image": "images/The_Empress.jpg"
+    "image": "image/The_Empress.jpg"
   },
   {
     "name": "The Emperor",
-    "image": "images/The_Emperor.jpg"
+    "image": "image/The_Emperor.jpg"
   },
   {
     "name": "The Hierophant",
-    "image": "images/The_Hierophant.jpg"
+    "image": "image/The_Hierophant.jpg"
   },
   {
     "name": "The Lovers",
-    "image": "images/The_Lovers.jpg"
+    "image": "image/The_Lovers.jpg"
   },
   {
     "name": "The Chariot",
-    "image": "images/The_Chariot.jpg"
+    "image": "image/The_Chariot.jpg"
   },
   {
     "name": "Strength",
-    "image": "images/Strength.jpg"
+    "image": "image/Strength.jpg"
   },
   {
     "name": "The Hermit",
-    "image": "images/The_Hermit.jpg"
+    "image": "image/The_Hermit.jpg"
   },
   {
     "name": "Wheel of Fortune",
-    "image": "images/Wheel_of_Fortune.jpg"
+    "image": "image/Wheel_of_Fortune.jpg"
   },
   {
     "name": "Justice",
-    "image": "images/Justice.jpg"
+    "image": "image/Justice.jpg"
   },
   {
     "name": "The Hanged Man",
-    "image": "images/The_Hanged_Man.jpg"
+    "image": "image/The_Hanged_Man.jpg"
   },
   {
     "name": "Death",
-    "image": "images/Death.jpg"
+    "image": "image/Death.jpg"
   },
   {
     "name": "Temperance",
-    "image": "images/Temperance.jpg"
+    "image": "image/Temperance.jpg"
   },
   {
     "name": "The Devil",
-    "image": "images/The_Devil.jpg"
+    "image": "image/The_Devil.jpg"
   },
   {
     "name": "The Tower",
-    "image": "images/The_Tower.jpg"
+    "image": "image/The_Tower.jpg"
   },
   {
     "name": "The Star",
-    "image": "images/The_Star.jpg"
+    "image": "image/The_Star.jpg"
   },
   {
     "name": "The Moon",
-    "image": "images/The_Moon.jpg"
+    "image": "image/The_Moon.jpg"
   },
   {
     "name": "The Sun",
-    "image": "images/The_Sun.jpg"
+    "image": "image/The_Sun.jpg"
   },
   {
     "name": "Judgement",
-    "image": "images/Judgement.jpg"
+    "image": "image/Judgement.jpg"
   },
   {
     "name": "The World",
-    "image": "images/The_World.jpg"
+    "image": "image/The_World.jpg"
   },
   {
     "name": "Ace of Wands",
-    "image": "images/Ace_of_Wands.jpg"
+    "image": "image/Ace_of_Wands.jpg"
   },
   {
     "name": "Two of Wands",
-    "image": "images/Two_of_Wands.jpg"
+    "image": "image/Two_of_Wands.jpg"
   },
   {
     "name": "Three of Wands",
-    "image": "images/Three_of_Wands.jpg"
+    "image": "image/Three_of_Wands.jpg"
   },
   {
     "name": "Four of Wands",
-    "image": "images/Four_of_Wands.jpg"
+    "image": "image/Four_of_Wands.jpg"
   },
   {
     "name": "Five of Wands",
-    "image": "images/Five_of_Wands.jpg"
+    "image": "image/Five_of_Wands.jpg"
   },
   {
     "name": "Six of Wands",
-    "image": "images/Six_of_Wands.jpg"
+    "image": "image/Six_of_Wands.jpg"
   },
   {
     "name": "Seven of Wands",
-    "image": "images/Seven_of_Wands.jpg"
+    "image": "image/Seven_of_Wands.jpg"
   },
   {
     "name": "Eight of Wands",
-    "image": "images/Eight_of_Wands.jpg"
+    "image": "image/Eight_of_Wands.jpg"
   },
   {
     "name": "Nine of Wands",
-    "image": "images/Nine_of_Wands.jpg"
+    "image": "image/Nine_of_Wands.jpg"
   },
   {
     "name": "Ten of Wands",
-    "image": "images/Ten_of_Wands.jpg"
+    "image": "image/Ten_of_Wands.jpg"
   },
   {
     "name": "Page of Wands",
-    "image": "images/Page_of_Wands.jpg"
+    "image": "image/Page_of_Wands.jpg"
   },
   {
     "name": "Knight of Wands",
-    "image": "images/Knight_of_Wands.jpg"
+    "image": "image/Knight_of_Wands.jpg"
   },
   {
     "name": "Queen of Wands",
-    "image": "images/Queen_of_Wands.jpg"
+    "image": "image/Queen_of_Wands.jpg"
   },
   {
     "name": "King of Wands",
-    "image": "images/King_of_Wands.jpg"
+    "image": "image/King_of_Wands.jpg"
   },
   {
     "name": "Ace of Cups",
-    "image": "images/Ace_of_Cups.jpg"
+    "image": "image/Ace_of_Cups.jpg"
   },
   {
     "name": "Two of Cups",
-    "image": "images/Two_of_Cups.jpg"
+    "image": "image/Two_of_Cups.jpg"
   },
   {
     "name": "Three of Cups",
-    "image": "images/Three_of_Cups.jpg"
+    "image": "image/Three_of_Cups.jpg"
   },
   {
     "name": "Four of Cups",
-    "image": "images/Four_of_Cups.jpg"
+    "image": "image/Four_of_Cups.jpg"
   },
   {
     "name": "Five of Cups",
-    "image": "images/Five_of_Cups.jpg"
+    "image": "image/Five_of_Cups.jpg"
   },
   {
     "name": "Six of Cups",
-    "image": "images/Six_of_Cups.jpg"
+    "image": "image/Six_of_Cups.jpg"
   },
   {
     "name": "Seven of Cups",
-    "image": "images/Seven_of_Cups.jpg"
+    "image": "image/Seven_of_Cups.jpg"
   },
   {
     "name": "Eight of Cups",
-    "image": "images/Eight_of_Cups.jpg"
+    "image": "image/Eight_of_Cups.jpg"
   },
   {
     "name": "Nine of Cups",
-    "image": "images/Nine_of_Cups.jpg"
+    "image": "image/Nine_of_Cups.jpg"
   },
   {
     "name": "Ten of Cups",
-    "image": "images/Ten_of_Cups.jpg"
+    "image": "image/Ten_of_Cups.jpg"
   },
   {
     "name": "Page of Cups",
-    "image": "images/Page_of_Cups.jpg"
+    "image": "image/Page_of_Cups.jpg"
   },
   {
     "name": "Knight of Cups",
-    "image": "images/Knight_of_Cups.jpg"
+    "image": "image/Knight_of_Cups.jpg"
   },
   {
     "name": "Queen of Cups",
-    "image": "images/Queen_of_Cups.jpg"
+    "image": "image/Queen_of_Cups.jpg"
   },
   {
     "name": "King of Cups",
-    "image": "images/King_of_Cups.jpg"
+    "image": "image/King_of_Cups.jpg"
   },
   {
     "name": "Ace of Swords",
-    "image": "images/Ace_of_Swords.jpg"
+    "image": "image/Ace_of_Swords.jpg"
   },
   {
     "name": "Two of Swords",
-    "image": "images/Two_of_Swords.jpg"
+    "image": "image/Two_of_Swords.jpg"
   },
   {
     "name": "Three of Swords",
-    "image": "images/Three_of_Swords.jpg"
+    "image": "image/Three_of_Swords.jpg"
   },
   {
     "name": "Four of Swords",
-    "image": "images/Four_of_Swords.jpg"
+    "image": "image/Four_of_Swords.jpg"
   },
   {
     "name": "Five of Swords",
-    "image": "images/Five_of_Swords.jpg"
+    "image": "image/Five_of_Swords.jpg"
   },
   {
     "name": "Six of Swords",
-    "image": "images/Six_of_Swords.jpg"
+    "image": "image/Six_of_Swords.jpg"
   },
   {
     "name": "Seven of Swords",
-    "image": "images/Seven_of_Swords.jpg"
+    "image": "image/Seven_of_Swords.jpg"
   },
   {
     "name": "Eight of Swords",
-    "image": "images/Eight_of_Swords.jpg"
+    "image": "image/Eight_of_Swords.jpg"
   },
   {
     "name": "Nine of Swords",
-    "image": "images/Nine_of_Swords.jpg"
+    "image": "image/Nine_of_Swords.jpg"
   },
   {
     "name": "Ten of Swords",
-    "image": "images/Ten_of_Swords.jpg"
+    "image": "image/Ten_of_Swords.jpg"
   },
   {
     "name": "Page of Swords",
-    "image": "images/Page_of_Swords.jpg"
+    "image": "image/Page_of_Swords.jpg"
   },
   {
     "name": "Knight of Swords",
-    "image": "images/Knight_of_Swords.jpg"
+    "image": "image/Knight_of_Swords.jpg"
   },
   {
     "name": "Queen of Swords",
-    "image": "images/Queen_of_Swords.jpg"
+    "image": "image/Queen_of_Swords.jpg"
   },
   {
     "name": "King of Swords",
-    "image": "images/King_of_Swords.jpg"
+    "image": "image/King_of_Swords.jpg"
   },
   {
     "name": "Ace of Pentacles",
-    "image": "images/Ace_of_Pentacles.jpg"
+    "image": "image/Ace_of_Pentacles.jpg"
   },
   {
     "name": "Two of Pentacles",
-    "image": "images/Two_of_Pentacles.jpg"
+    "image": "image/Two_of_Pentacles.jpg"
   },
   {
     "name": "Three of Pentacles",
-    "image": "images/Three_of_Pentacles.jpg"
+    "image": "image/Three_of_Pentacles.jpg"
   },
   {
     "name": "Four of Pentacles",
-    "image": "images/Four_of_Pentacles.jpg"
+    "image": "image/Four_of_Pentacles.jpg"
   },
   {
     "name": "Five of Pentacles",
-    "image": "images/Five_of_Pentacles.jpg"
+    "image": "image/Five_of_Pentacles.jpg"
   },
   {
     "name": "Six of Pentacles",
-    "image": "images/Six_of_Pentacles.jpg"
+    "image": "image/Six_of_Pentacles.jpg"
   },
   {
     "name": "Seven of Pentacles",
-    "image": "images/Seven_of_Pentacles.jpg"
+    "image": "image/Seven_of_Pentacles.jpg"
   },
   {
     "name": "Eight of Pentacles",
-    "image": "images/Eight_of_Pentacles.jpg"
+    "image": "image/Eight_of_Pentacles.jpg"
   },
   {
     "name": "Nine of Pentacles",
-    "image": "images/Nine_of_Pentacles.jpg"
+    "image": "image/Nine_of_Pentacles.jpg"
   },
   {
     "name": "Ten of Pentacles",
-    "image": "images/Ten_of_Pentacles.jpg"
+    "image": "image/Ten_of_Pentacles.jpg"
   },
   {
     "name": "Page of Pentacles",
-    "image": "images/Page_of_Pentacles.jpg"
+    "image": "image/Page_of_Pentacles.jpg"
   },
   {
     "name": "Knight of Pentacles",
-    "image": "images/Knight_of_Pentacles.jpg"
+    "image": "image/Knight_of_Pentacles.jpg"
   },
   {
     "name": "Queen of Pentacles",
-    "image": "images/Queen_of_Pentacles.jpg"
+    "image": "image/Queen_of_Pentacles.jpg"
   },
   {
     "name": "King of Pentacles",
-    "image": "images/King_of_Pentacles.jpg"
+    "image": "image/King_of_Pentacles.jpg"
   }
 ]
