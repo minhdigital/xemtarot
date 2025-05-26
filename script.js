@@ -16,10 +16,17 @@ function drawCards() {
     return;
   }
 
+  if (tarotData.length === 0) {
+    resultDiv.innerHTML = "<p>Dữ liệu bài Tarot chưa sẵn sàng. Vui lòng thử lại sau.</p>";
+    return;
+  }
+
   const selectedCards = [];
   while (selectedCards.length < 3) {
     const randIndex = Math.floor(Math.random() * tarotData.length);
     const card = tarotData[randIndex];
+    if (!card || !card.upright || !card.reversed) continue;
+
     const isReversed = Math.random() > 0.5;
 
     selectedCards.push({
@@ -45,7 +52,7 @@ function drawCards() {
   fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: {
-      "Authorization": "Bearer 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", // 🔁 thay bằng API Key thật
+      "Authorization": "Bearer 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",
       "Content-Type": "application/json",
       "HTTP-Referer": "https://minhdigital.github.io",
       "X-Title": "Xem Tarot"
@@ -62,7 +69,8 @@ function drawCards() {
   })
     .then(res => res.json())
     .then(data => {
-      if (!data.choices || !data.choices[0]) {
+      console.log("AI response:", data);
+      if (!data.choices || !data.choices[0]?.message?.content) {
         throw new Error("Không nhận được phản hồi hợp lệ từ OpenRouter.");
       }
       const reply = data.choices[0].message.content;
