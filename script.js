@@ -3,7 +3,11 @@ let tarotData = [];
 fetch('tarot.json')
   .then(res => res.json())
   .then(data => {
-    tarotData = data;
+  console.log("Groq response", data);
+  if (!data.choices || !data.choices[0] || !data.choices[0].message) {
+    throw new Error("Invalid AI response");
+  }
+  const reply = data.choices[0].message.content;
   });
 
 function drawCards() {
@@ -49,7 +53,7 @@ function drawCards() {
       'Content-Type': 'application/json'
     },
     body: JSON.stringify({
-      model: "mixtral-8x7b-32768",
+      model: "gemma-7b-it",
       messages: [
         {
           role: "user",
