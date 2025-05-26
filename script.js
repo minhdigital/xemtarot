@@ -1,6 +1,6 @@
 let tarotData = [];
 
-fetch('data/tarot.json')
+fetch('tarot.json')
   .then(res => res.json())
   .then(data => {
     tarotData = data;
