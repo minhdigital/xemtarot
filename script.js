@@ -46,7 +46,7 @@ function drawCards() {
 
   const prompt = `Câu hỏi của tôi: ${question}\nTôi đã rút được 3 lá bài:\n1. ${selectedCards[0].name} (${selectedCards[0].orientation})\n2. ${selectedCards[1].name} (${selectedCards[1].orientation})\n3. ${selectedCards[2].name} (${selectedCards[2].orientation})\n\nHãy giải nghĩa ý nghĩa của 3 lá bài này theo ngữ cảnh câu hỏi.`;
 
-  fetch('https://api.groq.com/openai/v1/chat/completions', {
+  fetch('https://groq-proxy-v8e5.onrender.com', {
     method: 'POST',
     headers: {
       'Authorization': 'Bearer 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',
