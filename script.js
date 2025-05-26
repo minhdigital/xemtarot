@@ -45,7 +45,7 @@ function drawCards() {
   fetch('https://api.groq.com/openai/v1/chat/completions', {
     method: 'POST',
     headers: {
-      'Authorization': 'Bearer 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',
+      'Authorization': 'Bearer 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',
       'Content-Type': 'application/json'
     },
     body: JSON.stringify({
