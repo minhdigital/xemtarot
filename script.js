@@ -29,14 +29,45 @@ function drawCards() {
     });
   }
 
+  // Hiển thị ảnh + tên + hướng lá bài trước
   selectedCards.forEach((card, i) => {
     const cardDiv = document.createElement('div');
     cardDiv.className = 'card';
     cardDiv.innerHTML = `
       <h2>Card ${i + 1}: ${card.name} (${card.orientation})</h2>
       <img src="${card.image}" alt="${card.name}" />
-      <p><strong>Ý nghĩa:</strong> ${card.meaning}</p>
     `;
     resultDiv.appendChild(cardDiv);
+  });
+
+  const prompt = `Câu hỏi của tôi: ${question}\nTôi đã rút được 3 lá bài:\n1. ${selectedCards[0].name} (${selectedCards[0].orientation})\n2. ${selectedCards[1].name} (${selectedCards[1].orientation})\n3. ${selectedCards[2].name} (${selectedCards[2].orientation})\n\nHãy giải nghĩa ý nghĩa của 3 lá bài này theo ngữ cảnh câu hỏi.`;
+
+  fetch('https://api.groq.com/openai/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Authorization': 'Bearer YOUR_GROQ_API_KEY',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      model: "mixtral-8x7b-32768",
+      messages: [
+        {
+          role: "user",
+          content: prompt
+        }
+      ]
+    })
+  })
+  .then(res => res.json())
+  .then(data => {
+    const reply = data.choices[0].message.content;
+    const aiDiv = document.createElement('div');
+    aiDiv.className = 'card';
+    aiDiv.innerHTML = `<h2>Kết quả giải bài Tarot:</h2><p>${reply}</p>`;
+    resultDiv.appendChild(aiDiv);
+  })
+  .catch(error => {
+    console.error("Lỗi khi gọi Groq API:", error);
+    resultDiv.innerHTML += "<p>Đã xảy ra lỗi khi gọi AI. Vui lòng thử lại sau.</p>";
   });
 }
