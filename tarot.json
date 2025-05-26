@@ -1,470 +1,314 @@
 [
   {
     "name": "The Fool",
-    "upright": "The Fool upright meaning",
-    "reversed": "The Fool reversed meaning",
     "image": "images/The_Fool.jpg"
   },
   {
     "name": "The Magician",
-    "upright": "The Magician upright meaning",
-    "reversed": "The Magician reversed meaning",
     "image": "images/The_Magician.jpg"
   },
   {
     "name": "The High Priestess",
-    "upright": "The High Priestess upright meaning",
-    "reversed": "The High Priestess reversed meaning",
     "image": "images/The_High_Priestess.jpg"
   },
   {
     "name": "The Empress",
-    "upright": "The Empress upright meaning",
-    "reversed": "The Empress reversed meaning",
     "image": "images/The_Empress.jpg"
   },
   {
     "name": "The Emperor",
-    "upright": "The Emperor upright meaning",
-    "reversed": "The Emperor reversed meaning",
     "image": "images/The_Emperor.jpg"
   },
   {
     "name": "The Hierophant",
-    "upright": "The Hierophant upright meaning",
-    "reversed": "The Hierophant reversed meaning",
     "image": "images/The_Hierophant.jpg"
   },
   {
     "name": "The Lovers",
-    "upright": "The Lovers upright meaning",
-    "reversed": "The Lovers reversed meaning",
     "image": "images/The_Lovers.jpg"
   },
   {
     "name": "The Chariot",
-    "upright": "The Chariot upright meaning",
-    "reversed": "The Chariot reversed meaning",
     "image": "images/The_Chariot.jpg"
   },
   {
     "name": "Strength",
-    "upright": "Strength upright meaning",
-    "reversed": "Strength reversed meaning",
     "image": "images/Strength.jpg"
   },
   {
     "name": "The Hermit",
-    "upright": "The Hermit upright meaning",
-    "reversed": "The Hermit reversed meaning",
     "image": "images/The_Hermit.jpg"
   },
   {
     "name": "Wheel of Fortune",
-    "upright": "Wheel of Fortune upright meaning",
-    "reversed": "Wheel of Fortune reversed meaning",
     "image": "images/Wheel_of_Fortune.jpg"
   },
   {
     "name": "Justice",
-    "upright": "Justice upright meaning",
-    "reversed": "Justice reversed meaning",
     "image": "images/Justice.jpg"
   },
   {
     "name": "The Hanged Man",
-    "upright": "The Hanged Man upright meaning",
-    "reversed": "The Hanged Man reversed meaning",
     "image": "images/The_Hanged_Man.jpg"
   },
   {
     "name": "Death",
-    "upright": "Death upright meaning",
-    "reversed": "Death reversed meaning",
     "image": "images/Death.jpg"
   },
   {
     "name": "Temperance",
-    "upright": "Temperance upright meaning",
-    "reversed": "Temperance reversed meaning",
     "image": "images/Temperance.jpg"
   },
   {
     "name": "The Devil",
-    "upright": "The Devil upright meaning",
-    "reversed": "The Devil reversed meaning",
     "image": "images/The_Devil.jpg"
   },
   {
     "name": "The Tower",
-    "upright": "The Tower upright meaning",
-    "reversed": "The Tower reversed meaning",
     "image": "images/The_Tower.jpg"
   },
   {
     "name": "The Star",
-    "upright": "The Star upright meaning",
-    "reversed": "The Star reversed meaning",
     "image": "images/The_Star.jpg"
   },
   {
     "name": "The Moon",
-    "upright": "The Moon upright meaning",
-    "reversed": "The Moon reversed meaning",
     "image": "images/The_Moon.jpg"
   },
   {
     "name": "The Sun",
-    "upright": "The Sun upright meaning",
-    "reversed": "The Sun reversed meaning",
     "image": "images/The_Sun.jpg"
   },
   {
     "name": "Judgement",
-    "upright": "Judgement upright meaning",
-    "reversed": "Judgement reversed meaning",
     "image": "images/Judgement.jpg"
   },
   {
     "name": "The World",
-    "upright": "The World upright meaning",
-    "reversed": "The World reversed meaning",
     "image": "images/The_World.jpg"
   },
   {
     "name": "Ace of Wands",
-    "upright": "Ace of Wands upright meaning",
-    "reversed": "Ace of Wands reversed meaning",
     "image": "images/Ace_of_Wands.jpg"
   },
   {
     "name": "Two of Wands",
-    "upright": "Two of Wands upright meaning",
-    "reversed": "Two of Wands reversed meaning",
     "image": "images/Two_of_Wands.jpg"
   },
   {
     "name": "Three of Wands",
-    "upright": "Three of Wands upright meaning",
-    "reversed": "Three of Wands reversed meaning",
     "image": "images/Three_of_Wands.jpg"
   },
   {
     "name": "Four of Wands",
-    "upright": "Four of Wands upright meaning",
-    "reversed": "Four of Wands reversed meaning",
     "image": "images/Four_of_Wands.jpg"
   },
   {
     "name": "Five of Wands",
-    "upright": "Five of Wands upright meaning",
-    "reversed": "Five of Wands reversed meaning",
     "image": "images/Five_of_Wands.jpg"
   },
   {
     "name": "Six of Wands",
-    "upright": "Six of Wands upright meaning",
-    "reversed": "Six of Wands reversed meaning",
     "image": "images/Six_of_Wands.jpg"
   },
   {
     "name": "Seven of Wands",
-    "upright": "Seven of Wands upright meaning",
-    "reversed": "Seven of Wands reversed meaning",
     "image": "images/Seven_of_Wands.jpg"
   },
   {
     "name": "Eight of Wands",
-    "upright": "Eight of Wands upright meaning",
-    "reversed": "Eight of Wands reversed meaning",
     "image": "images/Eight_of_Wands.jpg"
   },
   {
     "name": "Nine of Wands",
-    "upright": "Nine of Wands upright meaning",
-    "reversed": "Nine of Wands reversed meaning",
     "image": "images/Nine_of_Wands.jpg"
   },
   {
-    "name": "Ten of Wands",
-    "upright": "Ten of Wands upright meaning",
-    "reversed": "Ten of Wands reversed meaning",
+    "name": "Ten of Wands",",
     "image": "images/Ten_of_Wands.jpg"
   },
   {
     "name": "Page of Wands",
-    "upright": "Page of Wands upright meaning",
-    "reversed": "Page of Wands reversed meaning",
     "image": "images/Page_of_Wands.jpg"
   },
   {
     "name": "Knight of Wands",
-    "upright": "Knight of Wands upright meaning",
-    "reversed": "Knight of Wands reversed meaning",
     "image": "images/Knight_of_Wands.jpg"
   },
   {
     "name": "Queen of Wands",
-    "upright": "Queen of Wands upright meaning",
-    "reversed": "Queen of Wands reversed meaning",
     "image": "images/Queen_of_Wands.jpg"
   },
   {
     "name": "King of Wands",
-    "upright": "King of Wands upright meaning",
-    "reversed": "King of Wands reversed meaning",
     "image": "images/King_of_Wands.jpg"
   },
   {
     "name": "Ace of Cups",
-    "upright": "Ace of Cups upright meaning",
-    "reversed": "Ace of Cups reversed meaning",
     "image": "images/Ace_of_Cups.jpg"
   },
   {
     "name": "Two of Cups",
-    "upright": "Two of Cups upright meaning",
-    "reversed": "Two of Cups reversed meaning",
     "image": "images/Two_of_Cups.jpg"
   },
   {
     "name": "Three of Cups",
-    "upright": "Three of Cups upright meaning",
-    "reversed": "Three of Cups reversed meaning",
     "image": "images/Three_of_Cups.jpg"
   },
   {
     "name": "Four of Cups",
-    "upright": "Four of Cups upright meaning",
-    "reversed": "Four of Cups reversed meaning",
     "image": "images/Four_of_Cups.jpg"
   },
   {
     "name": "Five of Cups",
-    "upright": "Five of Cups upright meaning",
-    "reversed": "Five of Cups reversed meaning",
     "image": "images/Five_of_Cups.jpg"
   },
   {
     "name": "Six of Cups",
-    "upright": "Six of Cups upright meaning",
-    "reversed": "Six of Cups reversed meaning",
     "image": "images/Six_of_Cups.jpg"
   },
   {
     "name": "Seven of Cups",
-    "upright": "Seven of Cups upright meaning",
-    "reversed": "Seven of Cups reversed meaning",
     "image": "images/Seven_of_Cups.jpg"
   },
   {
     "name": "Eight of Cups",
-    "upright": "Eight of Cups upright meaning",
-    "reversed": "Eight of Cups reversed meaning",
     "image": "images/Eight_of_Cups.jpg"
   },
   {
     "name": "Nine of Cups",
-    "upright": "Nine of Cups upright meaning",
-    "reversed": "Nine of Cups reversed meaning",
     "image": "images/Nine_of_Cups.jpg"
   },
   {
     "name": "Ten of Cups",
-    "upright": "Ten of Cups upright meaning",
-    "reversed": "Ten of Cups reversed meaning",
     "image": "images/Ten_of_Cups.jpg"
   },
   {
     "name": "Page of Cups",
-    "upright": "Page of Cups upright meaning",
-    "reversed": "Page of Cups reversed meaning",
     "image": "images/Page_of_Cups.jpg"
   },
   {
     "name": "Knight of Cups",
-    "upright": "Knight of Cups upright meaning",
-    "reversed": "Knight of Cups reversed meaning",
     "image": "images/Knight_of_Cups.jpg"
   },
   {
     "name": "Queen of Cups",
-    "upright": "Queen of Cups upright meaning",
-    "reversed": "Queen of Cups reversed meaning",
     "image": "images/Queen_of_Cups.jpg"
   },
   {
     "name": "King of Cups",
-    "upright": "King of Cups upright meaning",
-    "reversed": "King of Cups reversed meaning",
     "image": "images/King_of_Cups.jpg"
   },
   {
     "name": "Ace of Swords",
-    "upright": "Ace of Swords upright meaning",
-    "reversed": "Ace of Swords reversed meaning",
     "image": "images/Ace_of_Swords.jpg"
   },
   {
     "name": "Two of Swords",
-    "upright": "Two of Swords upright meaning",
-    "reversed": "Two of Swords reversed meaning",
     "image": "images/Two_of_Swords.jpg"
   },
   {
     "name": "Three of Swords",
-    "upright": "Three of Swords upright meaning",
-    "reversed": "Three of Swords reversed meaning",
     "image": "images/Three_of_Swords.jpg"
   },
   {
     "name": "Four of Swords",
-    "upright": "Four of Swords upright meaning",
-    "reversed": "Four of Swords reversed meaning",
     "image": "images/Four_of_Swords.jpg"
   },
   {
     "name": "Five of Swords",
-    "upright": "Five of Swords upright meaning",
-    "reversed": "Five of Swords reversed meaning",
     "image": "images/Five_of_Swords.jpg"
   },
   {
     "name": "Six of Swords",
-    "upright": "Six of Swords upright meaning",
-    "reversed": "Six of Swords reversed meaning",
     "image": "images/Six_of_Swords.jpg"
   },
   {
     "name": "Seven of Swords",
-    "upright": "Seven of Swords upright meaning",
-    "reversed": "Seven of Swords reversed meaning",
     "image": "images/Seven_of_Swords.jpg"
   },
   {
     "name": "Eight of Swords",
-    "upright": "Eight of Swords upright meaning",
-    "reversed": "Eight of Swords reversed meaning",
     "image": "images/Eight_of_Swords.jpg"
   },
   {
     "name": "Nine of Swords",
-    "upright": "Nine of Swords upright meaning",
-    "reversed": "Nine of Swords reversed meaning",
     "image": "images/Nine_of_Swords.jpg"
   },
   {
     "name": "Ten of Swords",
-    "upright": "Ten of Swords upright meaning",
-    "reversed": "Ten of Swords reversed meaning",
     "image": "images/Ten_of_Swords.jpg"
   },
   {
     "name": "Page of Swords",
-    "upright": "Page of Swords upright meaning",
-    "reversed": "Page of Swords reversed meaning",
     "image": "images/Page_of_Swords.jpg"
   },
   {
     "name": "Knight of Swords",
-    "upright": "Knight of Swords upright meaning",
-    "reversed": "Knight of Swords reversed meaning",
     "image": "images/Knight_of_Swords.jpg"
   },
   {
     "name": "Queen of Swords",
-    "upright": "Queen of Swords upright meaning",
-    "reversed": "Queen of Swords reversed meaning",
     "image": "images/Queen_of_Swords.jpg"
   },
   {
     "name": "King of Swords",
-    "upright": "King of Swords upright meaning",
-    "reversed": "King of Swords reversed meaning",
     "image": "images/King_of_Swords.jpg"
   },
   {
     "name": "Ace of Pentacles",
-    "upright": "Ace of Pentacles upright meaning",
-    "reversed": "Ace of Pentacles reversed meaning",
     "image": "images/Ace_of_Pentacles.jpg"
   },
   {
     "name": "Two of Pentacles",
-    "upright": "Two of Pentacles upright meaning",
-    "reversed": "Two of Pentacles reversed meaning",
     "image": "images/Two_of_Pentacles.jpg"
   },
   {
     "name": "Three of Pentacles",
-    "upright": "Three of Pentacles upright meaning",
-    "reversed": "Three of Pentacles reversed meaning",
     "image": "images/Three_of_Pentacles.jpg"
   },
   {
     "name": "Four of Pentacles",
-    "upright": "Four of Pentacles upright meaning",
-    "reversed": "Four of Pentacles reversed meaning",
     "image": "images/Four_of_Pentacles.jpg"
   },
   {
     "name": "Five of Pentacles",
-    "upright": "Five of Pentacles upright meaning",
-    "reversed": "Five of Pentacles reversed meaning",
     "image": "images/Five_of_Pentacles.jpg"
   },
   {
     "name": "Six of Pentacles",
-    "upright": "Six of Pentacles upright meaning",
-    "reversed": "Six of Pentacles reversed meaning",
     "image": "images/Six_of_Pentacles.jpg"
   },
   {
     "name": "Seven of Pentacles",
-    "upright": "Seven of Pentacles upright meaning",
-    "reversed": "Seven of Pentacles reversed meaning",
     "image": "images/Seven_of_Pentacles.jpg"
   },
   {
     "name": "Eight of Pentacles",
-    "upright": "Eight of Pentacles upright meaning",
-    "reversed": "Eight of Pentacles reversed meaning",
     "image": "images/Eight_of_Pentacles.jpg"
   },
   {
     "name": "Nine of Pentacles",
-    "upright": "Nine of Pentacles upright meaning",
-    "reversed": "Nine of Pentacles reversed meaning",
     "image": "images/Nine_of_Pentacles.jpg"
   },
   {
     "name": "Ten of Pentacles",
-    "upright": "Ten of Pentacles upright meaning",
-    "reversed": "Ten of Pentacles reversed meaning",
     "image": "images/Ten_of_Pentacles.jpg"
   },
   {
     "name": "Page of Pentacles",
-    "upright": "Page of Pentacles upright meaning",
-    "reversed": "Page of Pentacles reversed meaning",
     "image": "images/Page_of_Pentacles.jpg"
   },
   {
     "name": "Knight of Pentacles",
-    "upright": "Knight of Pentacles upright meaning",
-    "reversed": "Knight of Pentacles reversed meaning",
     "image": "images/Knight_of_Pentacles.jpg"
   },
   {
     "name": "Queen of Pentacles",
-    "upright": "Queen of Pentacles upright meaning",
-    "reversed": "Queen of Pentacles reversed meaning",
     "image": "images/Queen_of_Pentacles.jpg"
   },
   {
     "name": "King of Pentacles",
-    "upright": "King of Pentacles upright meaning",
-    "reversed": "King of Pentacles reversed meaning",
     "image": "images/King_of_Pentacles.jpg"
   }
 ]
