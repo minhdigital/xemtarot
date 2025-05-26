@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  background: #fce4ec;
+  text-align: center;
+  padding: 30px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+#card-result {
+  margin-top: 20px;
+}
+
+.card {
+  margin: 15px 0;
+  padding: 15px;
+  border: 1px solid #999;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.card img {
+  margin-top: 10px;
+  width: 150px;
+}
